@@ -1,0 +1,5 @@
+gpiod==2.6.0
+Adafruit-Blinka-Raspberry-Pi-PWM==1.0.2
+rpi-ws281x==5.0.0
+adafruit-circuitpython-amg88xx==1.2.28
+pydantic==2.13.4
